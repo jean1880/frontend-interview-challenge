@@ -1,8 +1,8 @@
-# Robin Frontend Interview Challenge
+# Frontend Interview Challenge
 
 Welcome!
 
-Here you will find a set of problems to solve when interviewing with Robin. These problems represent real-world scenarios you can expect to encounter while working at Robin.
+Here you will find a set of problems to solve. These problems represent real-world scenarios you might encounter while working at Sandvine.
 
 We do not expect you to spend more than an hour or two on these challenges.
 
@@ -14,7 +14,7 @@ We do not expect you to spend more than an hour or two on these challenges.
 
 Once node is installed clone this repository. Please ensure all work is done on a new feature branch:
 ```
-git checkout -b robin-challenge-solutions
+git checkout -b sandvine-challenge-solutions
 ```
 
 ```
@@ -47,7 +47,7 @@ Find the availabile time slots within a given schedule.
 findFreeTimes(start: Date, end: Date, duration: number, events: Array<Event>)
 ```
 
-[View the challenge](https://github.com/robinpowered/frontend-interview-challenge/tree/master/challenges/1.%20Meeting%20Availability)
+[View the challenge](https://github.com/jean1880/frontend-interview-challenge/tree/master/challenges/1.%20Meeting%20Availability)
 
 ### User Availability Challenge
 
@@ -57,11 +57,11 @@ Find the available time slots that are free across a set of individual schedules
 findFreeTimesAcrossSchedules(start: Date, end: Date, duration: number, schedules: Array<Array<Event>>)
 ```
 
-[View the challenge](https://github.com/robinpowered/frontend-interview-challenge/tree/master/challenges/2.%20User%20Availability)
+[View the challenge](https://github.com/jean1880/frontend-interview-challenge/tree/master/challenges/2.%20User%20Availability)
 
 ### Component Challenge
 
-Create a React or Angular component representing a common UI element seen across Robin.
+Create a React or Angular component representing a common UI element seen across Sandvine.
 
 ```jsx
 <AvailabilityTimePills
@@ -75,7 +75,7 @@ Create a React or Angular component representing a common UI element seen across
 <img width="1000" alt="screen shot 2017-03-21 at 4 34 59 pm" src="https://cloud.githubusercontent.com/assets/656630/24169546/5e2610b6-0e54-11e7-87cd-0b70744dc269.png">
 
 
-[View the challenge](https://github.com/robinpowered/frontend-interview-challenge/tree/master/challenges/3.%20React%20Components)
+[View the challenge](https://github.com/jean1880/frontend-interview-challenge/tree/master/challenges/3.%20React%20Components)
 
 ## Preparing and submitting the challenge
 
