@@ -4,8 +4,6 @@ Welcome!
 
 Here you will find a set of problems to solve. These problems represent real-world scenarios you might encounter while working at Sandvine.
 
-We do not expect you to spend more than an hour or two on these challenges.
-
 ## Getting Started
 
 ### Pre-requisites
@@ -41,7 +39,7 @@ Each challenge has a test file to verify the output for a series of inputs. Test
 
 ### Meeting Availability Challenge
 
-Find the availabile time slots within a given schedule.
+Find the available time slots within a given schedule.
 
 ```js
 findFreeTimes(start: Date, end: Date, duration: number, events: Array<Event>)
