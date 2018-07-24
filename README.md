@@ -33,10 +33,6 @@ This is where you will implement the function, or component, to complete the cha
 
 This contains the mock data that will be used for the particular challenge. These are made up events, or multiple groups of events, depending on the challenge.
 
-#### `test.js`
-
-Each challenge has a test file to verify the output for a series of inputs. Tests can be ran as they would in any standard node package.
-
 ### Meeting Availability Challenge
 
 Find the available time slots within a given schedule.
