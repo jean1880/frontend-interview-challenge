@@ -15,10 +15,10 @@ export class TimeAvailabilityPills extends React.Component {
 
 export function Pill ({className, children, ...props}) {
   className = Array.isArray(className) ? className : [className];
-  const classes = ['pill', ...className];
+  const classes = [ ...className];
   return (
-    <div className={classes.join(' ')}>
+    <Badge className={classes.join(' ')}>
       {children}
-    </div>
+    </Badge>
   );
 }
