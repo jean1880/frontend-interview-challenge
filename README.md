@@ -23,7 +23,7 @@ npm install
 
 The challenges are broken into two groups - functional programming challenges and UI component challenges.
 
-Challenges can be found in the `challenges/` directory. Each challenge contains three files:
+Challenges can be found in the `challenges/` directory. Each challenge contains two files:
 
 #### `challenge.js`
 
